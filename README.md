@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, it's Amelia here! Nice to e-meet you! 👋
 
 <!--
 **a-vieira/a-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
