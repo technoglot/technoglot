@@ -13,6 +13,7 @@ Nice to e-meet you! I'm a **Software Engineer** in the making, **soon-to-be-Grad
 ## Languages 👩🏻‍💻
 - Java
 - JavaScript
+- Dart
 - Python (WIP)
 
 ## Tools 🧰
