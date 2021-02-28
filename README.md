@@ -1,7 +1,4 @@
 ## Hi there, it's Amelia here! Nice to e-meet you! 👋
-
----
-
 I'm a Software Engineer in the making, soon-to-be-Grad and Lifelong Learner! 
 - 🔨 I’m currently working on my graduation project 🎓 
 - 🤓 I’m currently learning lots of stuff...
@@ -9,19 +6,16 @@ I'm a Software Engineer in the making, soon-to-be-Grad and Lifelong Learner!
 - 📌 Fun fact: I'm a beginner archer, especially good at missing the target! 😂
 
 ## Don't be shy, let's chat!
----
 - [Find me on HashNode]([website])
 - [Pssst, I'm on Dev.to!]([dev.to])
 - [Connect with me on LinkedIn]([linkedin])
 
 ## Languages
----
 - Java
 - JavaScript
 - Python (WIP)
 
 ## Tools
----
 - VS Code
 - Git
 - VirtualBox
@@ -29,7 +23,6 @@ I'm a Software Engineer in the making, soon-to-be-Grad and Lifelong Learner!
 - IntelliJ IDEA
 
 ## Wanna Learn Next
----
 - Coming soon!
 
 [website]: https://technoglot.com/
