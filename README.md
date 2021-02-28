@@ -6,9 +6,9 @@ I'm a Software Engineer in the making, soon-to-be-Grad and Lifelong Learner!
 - 📌 Fun fact: I'm a beginner archer, especially good at missing the target! 😂
 
 ## Don't be shy, let's chat!
-- [Find me on HashNode]([website])
-- [Pssst, I'm on Dev.to!]([dev.to])
-- [Connect with me on LinkedIn]([linkedin])
+- [Find me on HashNode][website]
+- [Pssst, I'm on Dev.to!][dev.to]
+- [Connect with me on LinkedIn][linkedin]
 
 ## Languages
 - Java
