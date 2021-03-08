@@ -57,6 +57,7 @@ Nice to e-meet you! I'm a **Software Engineer** in the making, **soon-to-be-Grad
 
 ### Other
 <img align="left" alt="Git" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="NPM" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
 <br>
 <br>
