@@ -26,26 +26,15 @@ Nice to e-meet you! I'm a **Software Engineer** in the making, **soon-to-be-Grad
 <br>
 <br>
 
-### Frameworks
+### Frameworks & Libraries
 <img align="left" alt="Flutter" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Express.js" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-
-<br>
-<br>
-
-### Libraries
+<img align="left" alt="Node.js" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React.js" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<br>
-<br>
-
-### IDEs & Code Editors
-<img align="left" alt="Visual Studio Code" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br>
 <br>
-
-### Software
 
 ### UI frameworks
 <img align="left" alt="Bootstrap" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
@@ -55,17 +44,25 @@ Nice to e-meet you! I'm a **Software Engineer** in the making, **soon-to-be-Grad
 <br>
 <br>
 
+### Code Editors & IDEs
+<img align="left" alt="Visual Studio Code" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="IntelliJ IDEA" width="38px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fintellij-idea-1-logo-png-transparent.png&f=1&nofb=1" />
+<img align="left" alt="Android Studio" width="38px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-tzm1twY_ENM%2FXlCRuI0ZkRI%2FAAAAAAAAOso%2FBmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ%2Fs1600%2Fpasted%252Bimage%252B0.png&f=1&nofb=1" />
+
+<br>
+<br>
+
 ### Other
 <img align="left" alt="Git" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="38px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fgithub_filled1600.png&f=1&nofb=1" />
+<img align="left" alt="GitLab" width="38px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FGitLab_Logo.svg%2F1108px-GitLab_Logo.svg.png&f=1&nofb=1" />
 <img align="left" alt="NPM" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="Postman" width="38px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdl2.macupdate.com%2Fimages%2Ficons256%2F56276.png%3Fd%3D1551529072&f=1&nofb=1" />
+<img align="left" alt="VirtualBox" width="38px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Foneprogs.ru%2Fwp-content%2Fuploads%2Fvirtualbox-logo-300x300.png&f=1&nofb=1" />
+<img align="left" alt="Ubuntu" width="38px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F02%2FUbuntu.png&f=1&nofb=1" />
 
 <br>
 <br>
-
-## Tools 🧰
-- VirtualBox
-- Postman
-- IntelliJ IDEA
 
 ## Wanna Learn Next 📚
 - Coming soon!
