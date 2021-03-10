@@ -1,4 +1,4 @@
-# Hi there, it's **Amelia** here! 👋
+# Hi there, it's **Amelia** here! 👋🏻
 Nice to e-meet you! I'm a **technoglot**, **occasional Flutterer** and **lifelong learner**! 
 - 🔨 **I’m currently working on** my graduation project 🎓 
 - 🤓 **I’m currently learning** lots of different stuff...
