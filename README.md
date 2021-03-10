@@ -1,5 +1,5 @@
 # Hi there, it's **Amelia** here! 👋
-Nice to e-meet you! I'm a **Software Engineer** in the making, **soon-to-be-Grad** and **Lifelong Learner**! 
+Nice to e-meet you! I'm a **technoglot**, **ocassional Flutterer** and **lifelong learner**! 
 - 🔨 **I’m currently working on** my graduation project 🎓 
 - 🤓 **I’m currently learning** lots of different stuff...
 - 🤝🏼 **I’m looking to collaborate on** making the world a better place with tech
