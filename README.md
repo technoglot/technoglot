@@ -65,7 +65,9 @@ Nice to e-meet you! I'm a **Software Engineer** in the making, **soon-to-be-Grad
 <br>
 
 ## Wanna Learn Next 📚
-- Coming soon!
+- Python
+- Some DevSecOps
+- German
 
 [website]: https://technoglot.com/
 [linkedin]: https://linkedin.com/in/avr
