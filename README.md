@@ -38,7 +38,7 @@ Nice to e-meet you! I'm a **Software Engineer** in the making, **soon-to-be-Grad
 
 ### UI frameworks
 <img align="left" alt="Bootstrap" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="MaterializeCSS" width="55px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fseeklogo.com%2Fimages%2FM%2Fmaterialize-logo-0FCAD8A6F8-seeklogo.com.png&f=1&nofb=1" />
+<img align="left" alt="MaterializeCSS" width="65px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fseeklogo.com%2Fimages%2FM%2Fmaterialize-logo-0FCAD8A6F8-seeklogo.com.png&f=1&nofb=1" />
 <img align="left" alt="Material Design" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />
 
 <br>
