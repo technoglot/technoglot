@@ -21,7 +21,7 @@ Nice to e-meet you! I'm a **technoglot**, **occasional Flutterer** and **lifelon
 
 ## My tech stack 👩🏻‍💻
 > ***Tech stack*** <br>
-> *a combination of programming languages, frameworks, libraries, patterns, servers, UI/UX solutions, software, and tools used by developers*
+> 👉🏻 *a combination of programming languages, frameworks, libraries, patterns, servers, UI/UX solutions, software, and tools used by developers*
 
 ### Programming languages
 <img align="left" alt="HTML5" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
