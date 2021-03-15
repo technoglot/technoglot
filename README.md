@@ -4,8 +4,8 @@ Nice to e-meet you! I'm a **technoglot**, **occasional Flutterer** and **lifelon
 <br>
 
 > ***technoglot*** <br>
-> *what you get when you combine the words **technology** and **polyglot*** <br>
-> *a person that is "**fluent**" in several programming languages*
+> 👉🏻 *what you get when you combine the words **technology** and **polyglot*** <br>
+> 👉🏻 *a person that is "**fluent**" in several programming languages*
 
 <br>
 
