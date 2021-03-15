@@ -3,7 +3,7 @@ Nice to e-meet you! I'm a **technoglot**, **occasional Flutterer** and **lifelon
 
 <br>
 
-> ***technoglot*** <br>
+> ## ***technoglot*** <br>
 > 👉🏻 *what you get when you combine the words **technology** and **polyglot*** <br>
 > 👉🏻 *a person that is "**fluent**" in several programming languages*
 
@@ -20,7 +20,7 @@ Nice to e-meet you! I'm a **technoglot**, **occasional Flutterer** and **lifelon
 - [Connect with me on LinkedIn][linkedin]
 
 ## My tech stack 👩🏻‍💻
-> ***Tech stack*** <br>
+> ## ***Tech stack*** <br>
 > 👉🏻 *a combination of programming languages, frameworks, libraries, patterns, servers, UI/UX solutions, software, and tools used by developers*
 
 ### Programming languages
