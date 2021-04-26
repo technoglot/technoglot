@@ -1,4 +1,4 @@
-![banner](banner2.png)
+![banner](banner.png)
 # Hi there, I'm **Amelia** a.k.a @technoglot! 👋🏻
 
 Nice to e-meet you! I'm a junior techie and technoglot based in [Curacao](https://www.google.com/maps/d/viewer?mid=1IGqp8L05zWn_cvpcktOxHuLhUoY&ll=12.229385894038643%2C-69.02479300000002&z=11)! I love to blog and share with others the knowledge I've hoarded over the years. 😁 
